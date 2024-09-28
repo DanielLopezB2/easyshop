@@ -53,8 +53,7 @@ spring.jpa.show-sql=true
   "name": "Producto Ejemplo",
   "description": "Descripción del producto",
   "price": 19.99,
-  "category": "Electrónica",
-  "stock": 100
+  "quantity": 200
 }
 ```
 #### GET /products
@@ -67,8 +66,7 @@ spring.jpa.show-sql=true
   "name": "Producto Ejemplo",
   "description": "Descripción del producto",
   "price": 19.99,
-  "category": "Electrónica",
-  "stock": 100
+  "quantity": 200
 }
 
 ```
