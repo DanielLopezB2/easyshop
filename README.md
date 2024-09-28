@@ -35,7 +35,7 @@ CREATE DATABASE db_easyshop;
 
 2. Configura las credenciales de tu base de datos MySQL en el archivo
 ```
-spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db
+spring.datasource.url=jdbc:mysql://localhost:3306/db_easyshop
 spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
 
