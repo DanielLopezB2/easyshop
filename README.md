@@ -21,8 +21,8 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/usuario/ecommerce-crud-api.git
-cd ecommerce-crud-api
+git clone https://github.com/DanielLopezB2/easyshop.git
+cd easyshop
 ```
 
 ### 2. Configurar la Base de Datos
