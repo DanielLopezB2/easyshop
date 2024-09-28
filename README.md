@@ -5,8 +5,6 @@ Este repositorio contiene el código fuente para una API RESTful de ecommerce qu
 ## Tabla de Contenidos
 - [Requisitos Previos](#requisitos-previos)
 - [Configuración del Proyecto](#configuración-del-proyecto)
-- [Instrucciones de Instalación](#instrucciones-de-instalación)
-- [Ejecución del Proyecto](#ejecución-del-proyecto)
 - [Uso de la API](#uso-de-la-api)
 
 ## Requisitos Previos
@@ -44,7 +42,7 @@ spring.datasource.password=tu_contraseña
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-### 3. Uso de la API
+## Uso de la API
 
 **Crear producto**
 
